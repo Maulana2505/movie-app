@@ -1,0 +1,41 @@
+{
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+        "id": 693134,
+        "title": "Dune: Part Two",
+        "original_language": "en",
+        "original_title": "Dune: Part Two",
+        "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+        "poster_path": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+        "media_type": "movie",
+        "popularity": 986.406,
+        "release_date": "2024-02-27",
+        "video": false,
+        "vote_average": 8.358,
+        "vote_count": 2509
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o25js6DbhDa9KtMKUiGOEPVSnaP.jpg",
+        "id": 208825,
+        "name": "Parasyte: The Grey",
+        "original_language": "ko",
+        "original_name": "기생수: 더 그레이",
+        "overview": "When unidentified parasites violently take over human hosts and gain power, humanity must rise to combat the growing threat.",
+        "poster_path": "/rubaKfmdCvWGPXErgW9aQsgzKVr.jpg",
+        "media_type": "tv",
+       
+        "popularity": 222.499,
+        "first_air_date": "2024-04-05",
+        "vote_average": 7.63,
+        "vote_count": 27
+       
+      }
+      
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+  }
